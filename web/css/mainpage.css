@@ -1,0 +1,96 @@
+
+body {
+	margin:0px; padding:0px; 
+	background:#FFFFE0;
+	position:relative; 
+}
+
+
+#all {
+	text-align:left;
+	min-width:px;
+	max-width:px;
+}
+
+.head {
+	display:block;
+	height:0px;
+	background:#FFFFE0;
+	padding:0px;
+}
+
+#container {
+	position:relative; 
+	display:block; 
+	background:#228B22;
+	border-left:solid 310px #EEE9E9;
+}
+#inner {
+	display:block;
+	position:relative;	 
+	margin-left:-155px;
+	padding:1px;
+}
+
+#left {
+	float:left;
+	position:relative; 	 
+	width:100px;
+	
+}
+#center {
+	margin-left:50px;
+	position:relative; 
+	display:block;
+	height:800px;
+	padding:40px;
+}
+#Valik {
+    	width: 300px; 	
+}
+.clear {
+	clear:both;
+}
+
+h2 {
+    font-size:14px;
+    font-weight:bold;
+    text-align: center;
+    margin-top:0;
+}
+.foot {
+	display:block;
+	height:30px;
+	background:#9F89B6;
+	padding:1px;
+}
+.row {
+    margin-bottom:2px;
+    width:200px;
+}
+    .row label {
+        display:block;
+        font-weight:bold;
+    }
+    .row input.text {
+        font-size:1.0em;
+        padding:1px 5px;
+    }
+.to_reg {
+    font-size:0.9em;
+}
+.instruction {
+    font-size:0.6em;
+    color:#aaaaaa;
+    margin-left:2px;
+    cursor:default;
+}
+.error {
+    color:red;
+    margin-left:100px;
+}
+.rest1 img  {
+    border: 2px solid #55c5e9; 
+    padding: 20px; 
+    background: #666;   
+   }

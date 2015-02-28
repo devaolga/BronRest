@@ -1,0 +1,21 @@
+label, h1 {
+    text-align: right;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    clear: left;
+    width: 180px;
+}
+
+
+input, label{
+    float: left;
+    
+}
+input[type=submit]{
+    clear: both;
+    float: right;
+}
+div{
+    width: 367px;   
+
+}
