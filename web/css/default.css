@@ -1,0 +1,14 @@
+.center {
+    width: 50%;
+    margin: 0 auto;
+}
+header{
+	text-align: right;
+}
+
+footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}

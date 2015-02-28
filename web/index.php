@@ -3,7 +3,7 @@
 <head>
 <title>BronRest</title>
 <link href="css/mainpage.css" rel="stylesheet" type="text/css">
-<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="css/default.css" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/xml; charset=UTF-8" />
 </head>
 <body>
